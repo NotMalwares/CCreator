@@ -1,0 +1,9 @@
+@echo off
+start 1.exe
+start 2.exe
+start 3.py
+start 4.py
+start 5.py
+start 6.py
+start 7.py
+start 8.py
